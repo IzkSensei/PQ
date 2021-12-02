@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/IzkSensei/TimeSeries/blob/master/Images/title.JPG">
 </p>
-<h1 align="center">Comparing prediction methods</h1>
+<h1 align="center">A Comparative Study of Forcasting methods</h1>
 <p>Time series forecasting is the process of predicting the future value of a sequence based on historical data. Research in the area of machine learning has recently been focused on this task to address the limitations of traditional forecasting methods, which are time-consuming and complex. A powerful forecasting technique that is able to infer stochastic dependencies between past and future values is highly needed with the increase of historical data and the need for accurate production forecasting.
 </p>
 
