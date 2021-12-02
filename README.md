@@ -54,15 +54,24 @@ Comparing RMSE results of these models:
 |Prophet|9292.317|
 
 
+
 ## Refrences:
 
-[1] Müller, K-R., et al. "Predicting time series with support vector machines." _International Conference on Artificial Neural Networks_. Springer, Berlin, Heidelberg, 1997.
+[1] [Shah, Dev, Wesley Campbell, and Farhana H. Zulkernine. "A comparative study of LSTM and DNN for stock market forecasting." 2018 IEEE International Conference on Big Data (Big Data). IEEE, 2018.](https://ieeexplore.ieee.org/abstract/document/8622462/)
 
-[2] Gers, Felix A., Jürgen Schmidhuber, and Fred Cummins. "Learning to forget: Continual prediction with LSTM." _Neural computation_ 12.10 (2000): 2451-2471.
+[2] [Ariyo, Adebiyi A., Adewumi O. Adewumi, and Charles K. Ayo. "Stock price prediction using the ARIMA model." _2014 UKSim-AMSS 16th International Conference on Computer Modelling and Simulation_. IEEE, 2014.](https://ieeexplore.ieee.org/abstract/document/7046047/)
 
-[3] Ariyo, Adebiyi A., Adewumi O. Adewumi, and Charles K. Ayo. "Stock price prediction using the ARIMA model." _2014 UKSim-AMSS 16th International Conference on Computer Modelling and Simulation_. IEEE, 2014.
+[3] Taylor, Sean J., and Benjamin Letham. "Forecasting at scale." _The American Statistician_ 72.1 (2018): 37-45.
 
-[4] Taylor, Sean J., and Benjamin Letham. "Forecasting at scale." _The American Statistician_ 72.1 (2018): 37-45.
+[4] Müller, K-R., et al. "Predicting time series with support vector machines." _International Conference on Artificial Neural Networks_. Springer, Berlin, Heidelberg, 1997.
+
+[5] Gers, Felix A., Jürgen Schmidhuber, and Fred Cummins. "Learning to forget: Continual prediction with LSTM." _Neural computation_ 12.10 (2000): 2451-2471.
+
+
+
+
+
+
 
 ## Note
 This implementation is based on [Tensorflow 2.0](https://www.tensorflow.org/guide/effective_tf2) package and made possible by [Google Colabratory](https://colab.research.google.com) GPU.
